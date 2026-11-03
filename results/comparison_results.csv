@@ -1,0 +1,6 @@
+query_id	query	BM25_top5	Semantic_top5	BM25_P@5	Semantic_P@5	BM25_MRR	Semantic_MRR	BM25_search_ms	Semantic_search_ms
+Q1	How can a company improve employee retention?	D01, D06, D15, D03, D05	D01, D06, D02, D07, D03	0.4	0.6	1	1	1.464915	20.062106
+Q2	What factors influence employee productivity?	D06, D05, D01, D03, D04	D06, D08, D07, D01, D05	0.4	0.8	1	1	1.041612	19.773667
+Q3	How can digital technologies support managerial decisions?	D10, D09, D14, D16, D19	D10, D18, D15, D12, D05	0.4	0.4	1	1	1.184139	19.562328
+Q4	What strategies improve customer satisfaction?	D15, D16, D13, D06, D14	D16, D13, D14, D15, D17	0.8	0.8	1	1	1.019715	17.85639
+Q5	How can management improve business performance?	D09, D17, D19, D06, D08	D18, D17, D20, D06, D09	0.4	0.6	0.5	1	1.024809	17.699116
